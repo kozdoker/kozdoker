@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML, AI, Chatbots
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on AI projects
-- 📫 How to reach me 
+- 📫 Reach me by github
 
 <!---
 kozdoker/kozdoker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
